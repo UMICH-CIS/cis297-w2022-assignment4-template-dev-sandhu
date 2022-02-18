@@ -1,0 +1,7 @@
+C:\Users\8noor\Downloads\cis297-w2022-assignment4-template-dev-sandhu-main\cis297-w2022-assignment4-template-dev-sandhu-main\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.exe.config
+C:\Users\8noor\Downloads\cis297-w2022-assignment4-template-dev-sandhu-main\cis297-w2022-assignment4-template-dev-sandhu-main\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.exe
+C:\Users\8noor\Downloads\cis297-w2022-assignment4-template-dev-sandhu-main\cis297-w2022-assignment4-template-dev-sandhu-main\PatientRecordApplication\PatientRecordApplication\bin\Debug\PatientRecordApplication.pdb
+C:\Users\8noor\Downloads\cis297-w2022-assignment4-template-dev-sandhu-main\cis297-w2022-assignment4-template-dev-sandhu-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csprojAssemblyReference.cache
+C:\Users\8noor\Downloads\cis297-w2022-assignment4-template-dev-sandhu-main\cis297-w2022-assignment4-template-dev-sandhu-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.csproj.CoreCompileInputs.cache
+C:\Users\8noor\Downloads\cis297-w2022-assignment4-template-dev-sandhu-main\cis297-w2022-assignment4-template-dev-sandhu-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.exe
+C:\Users\8noor\Downloads\cis297-w2022-assignment4-template-dev-sandhu-main\cis297-w2022-assignment4-template-dev-sandhu-main\PatientRecordApplication\PatientRecordApplication\obj\Debug\PatientRecordApplication.pdb
